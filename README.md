@@ -7,5 +7,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains :bullettrain_front: :bullettrain_side: :light_rail: :monorail:
 
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+## What I'm listening to
+<p align="center">
+  <a href="https://open.spotify.com/user/hikariknight19">
+    <img src="https://novatorem-pi-six.vercel.app/api/spotify"/>
+  </a>
+</p>
+<!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
