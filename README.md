@@ -10,7 +10,7 @@
 ## What I'm listening to
 <p align="center">
   <a href="https://open.spotify.com/user/hikariknight19">
-    <img src="https://novatorem-pi-six.vercel.app/api/spotify"/>
+    <img src="https://spotify-app-kappa.vercel.app/api/spotify"/>
   </a>
 </p>
 <!-- If you are interested in adding this to this your profile, check out this repo: https://github.com/novatorem/novatorem -->
