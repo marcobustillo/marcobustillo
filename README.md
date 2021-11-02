@@ -6,3 +6,6 @@
 - 📫 How to reach me: marcobustillo21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains :bullettrain_front: :bullettrain_side: :light_rail: :monorail:
+
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
